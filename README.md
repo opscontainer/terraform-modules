@@ -56,7 +56,7 @@ Apache License, Version 2.0, January 2004 (https://www.apache.org/licenses/LICEN
 
 Kindly support our GitHub repository, by following these steps:
 
-  1. Visit my repository: Navigate to this [GitHub repository](https://github.com/opscontainer/terraform-modules)
+  1. Visit our repository: Navigate to this [GitHub repository](https://github.com/opscontainer/terraform-modules)
 
   2. Click the "Star" button: On the repository page, you'll see a "Star" button in the upper right corner. Clicking on it will star the repository, indicating your support for the project.
 
